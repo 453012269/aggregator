@@ -12,4 +12,4 @@ jobs:
           token: ${{secrets.PERSONAL_TOKEN }}
           owner: wzdnzd # fork 的上游仓库 user
           head: wzdnzd:main # fork 的上游仓库 branch
-          base: 453012269:main # 本地仓库 branch
+          base: main # 本地仓库 branch
