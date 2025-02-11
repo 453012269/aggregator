@@ -10,5 +10,5 @@ jobs:
       - uses: tgymnich/fork-sync@v1.8
         with:
           owner: wzdnzd
-          head: main
-          base: main
+          head: aggregator:main
+          base: aggregator:main
